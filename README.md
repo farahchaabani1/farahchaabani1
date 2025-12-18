@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="Bannière LinkedIn Simple Professionnelle Photo Beige (8).png" alt="Bannière" width="900"/>
+  <img src="Master's student in Advanced Robotics and Artificial Intelligence.png" alt="Bannière" width="900"/>
 </p>
 
 ###
