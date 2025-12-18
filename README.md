@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Farah and I'm a Student in Advanced Robotics and Artificial Intelligence, from Tunisia❤️</h2>
+<h2 align="center">Hi 👋! My name is Farah and I'm a Student in Advanced Robotics and Artificial Intelligence, from Tunisia❤️</h2>
 
 ###
 
@@ -35,9 +35,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/farah-chaabani-6a167a2a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="farahchaabani@outlook.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
