@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: farahchaabani1/profile-readme-generator@main
+      - uses: maurodesouza/profile-readme-generator@main
         with:
           username: farahchaabani1
           platform: github
