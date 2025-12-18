@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Farah and I'm a Student in Advanced Robotics and Artificial Intelligence, from Tunisia❤️</h2>
+<h2 align="center">Hi 👋! My name is Farah from Tunisia❤️</h2>
 
 ###
 
