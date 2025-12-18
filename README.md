@@ -1,5 +1,11 @@
 <h2 align="center">Hi 👋! My name is Farah and I'm a Student in Advanced Robotics and Artificial Intelligence, from Tunisia❤️</h2>
 
+
+<p align="center">
+  <img src="Bannière LinkedIn Simple Professionnelle Photo Beige (8).png" alt="Bannière" width="900"/>
+</p>
+
+
 ###
 
 <div align="center">
