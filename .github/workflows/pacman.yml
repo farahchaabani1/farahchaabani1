@@ -6,16 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: maurodesouza/profile-readme-generator@main
+      - name: Generate pacman graph
+        uses: Platane/snk@v3
         with:
-          username: farahchaabani1
-          platform: github
-          output: dist
+          github_user_name: farahchaabani1
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push generated files
         uses: peaceiris/actions-gh-pages@v3
