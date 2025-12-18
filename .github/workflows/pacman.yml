@@ -6,27 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
       - name: Generate pacman graph
-        run: |
-          npx profile-readme-generator \
-            --username farahchaabani1 \
-            --platform github \
-            --theme dracula \
-            --output dist
+        uses: Platane/snk@v3
+        with:
+          github_user_name: farahchaabani1
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Push generated files
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
