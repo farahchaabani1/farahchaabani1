@@ -90,7 +90,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/farah-chaabani-6a167a2a1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
+       alt="LinkedIn" 
+       height="30" 
+       style="vertical-align:middle;">
   </a>
   <a href="mailto:farahchaabani@outlook.fr">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
