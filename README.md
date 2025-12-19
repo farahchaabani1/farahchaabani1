@@ -96,7 +96,7 @@
        style="vertical-align:middle;">
   </a>
   <a href="mailto:ton.email@exemple.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Microsoft_Outlook_Icon_%282025–present%29.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Microsoft_Outlook_2013-2019_logo.svg" 
        alt="Outlook" 
        height="30" 
        style="vertical-align:middle;">
