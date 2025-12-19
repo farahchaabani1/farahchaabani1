@@ -95,11 +95,8 @@
        height="30" 
        style="vertical-align:middle;">
   </a>
-  <a href="mailto:ton.email@exemple.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Microsoft_Outlook_2013-2019_logo.svg" 
-       alt="Outlook" 
-       height="30" 
-       style="vertical-align:middle;">
+  <a href="mailto:farahchaabani@outlook.fr">
+  <img src="./B00-M365-Outlook-App-Icon.avif" alt="Outlook" height="30">
   </a>
   <a href="https://linkedin.com/in/ffff" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffff" height="30" width="40" />
