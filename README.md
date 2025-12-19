@@ -90,7 +90,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/farah-chaabani-6a167a2a1/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_white.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
        alt="LinkedIn" 
        height="30" 
        style="vertical-align:middle;">
