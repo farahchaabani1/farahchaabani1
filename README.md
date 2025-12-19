@@ -96,11 +96,12 @@
        style="vertical-align:middle;">
   </a>
   <a href="mailto:ton.email@exemple.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Office_Outlook_%282019-present%29.svg" 
+  <img src="https://kindpng.com/picc/m/319-3190069_outlook-logo-png-transparent-png.png" 
        alt="Outlook" 
        height="30" 
        style="vertical-align:middle;">
 </a>
+
 
 
   <a href="https://linkedin.com/in/ffff" target="blank">
