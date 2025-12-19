@@ -86,7 +86,7 @@
 
 ###
 
-## 📲 How to reach me
+## 📲 Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/farah-chaabani-6a167a2a1/" target="_blank">
