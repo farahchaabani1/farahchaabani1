@@ -96,11 +96,12 @@
        style="vertical-align:middle;">
   </a>
   <a href="mailto:ton.email@exemple.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Office_Outlook_%282019-present%29.svg" 
        alt="Outlook" 
        height="30" 
-       style="vertical-align:middle; fill:#0078D4;">
+       style="vertical-align:middle;">
 </a>
+
 
   <a href="https://linkedin.com/in/ffff" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffff" height="30" width="40" />
