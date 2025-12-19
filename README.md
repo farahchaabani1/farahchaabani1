@@ -50,4 +50,4 @@
 
 ## 🚀 Dev Quote
 
-![Quote](./assets/quote.svg)
+![Quote](./quote.svg)
