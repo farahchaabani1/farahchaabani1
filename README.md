@@ -94,7 +94,8 @@
        alt="LinkedIn" 
        height="30" 
        style="background-color:white; padding:2px; border-radius:4px; vertical-align:middle;">
-  </a>
+</a>
+
   <a href="mailto:farahchaabani@outlook.fr">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
