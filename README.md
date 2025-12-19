@@ -2,12 +2,8 @@
 
 ###
 
-![Texte alternatif](4b06e393fd0647c265b1282b0f006486.gif)
-
-###
-
 <p align="center">
-  <img src="4b06e393fd0647c265b1282b0f006486.gif" alt="Texte alternatif" />
+  <img src="4b06e393fd0647c265b1282b0f006486.gif" alt="Watch me shine in GIF! 🚀💫" />
 </p>
 
 ###
