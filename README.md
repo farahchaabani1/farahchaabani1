@@ -108,7 +108,7 @@
 
 ###
 
-## 📌 Mes contributions dévorées
+## 📌 Contributions in the Bite
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farahchaabani1/farahchaabani1/output/pacman-contribution-graph-dark.svg">
