@@ -2,10 +2,15 @@
 
 ###
 
-
 ![Texte alternatif](4b06e393fd0647c265b1282b0f006486.gif)
 
+###
 
+<p align="center">
+  <img src="4b06e393fd0647c265b1282b0f006486.gif" alt="Texte alternatif" />
+</p>
+
+###
 
 <p align="center">
   <img src="Master's student in Advanced Robotics and Artificial Intelligence.png" alt="Bannière" width="900"/>
