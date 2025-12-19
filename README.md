@@ -90,7 +90,7 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/ffff" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffff" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffff" height="30" width="40" />
   </a>
   <a href="mailto:farahchaabani@outlook.fr">
   <img src="./B00-M365-Outlook-App-Icon.avif" alt="Outlook" height="30">
