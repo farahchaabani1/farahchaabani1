@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="Master's student in Advanced Robotics and Artificial Intelligence.png" alt="Bannière" width="900"/>
+  <img src="banner.png" alt="Bannière" width="900"/>
 </p>
 
 ###
