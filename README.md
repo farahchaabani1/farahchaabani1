@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  <img src="4b06e393fd0647c265b1282b0f006486.gif" alt="Watch me shine in GIF! 🚀💫" width="300" />
+  <img src="chatbot.gif" alt="Watch me shine in GIF! 🚀💫" width="300" />
 </p>
 
 ###
