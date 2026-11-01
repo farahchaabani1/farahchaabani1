@@ -68,6 +68,7 @@
 ###
 
 ## 🚀 Dev Quote
+
 <p align="center">
-![Quote](./quote.svg)
+  ![Quote](./quote.svg)
 </p>
